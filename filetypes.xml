@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="123" type="PLAIN_TEXT" />
+      <mapping pattern=".part-00000-f7fea0a3-9c21-47b8-9209-86a7796c2136-c000.json.crc" type="PLAIN_TEXT" />
+      <mapping pattern=".part-00004-f7fea0a3-9c21-47b8-9209-86a7796c2136-c000.json.crc" type="PLAIN_TEXT" />
+      <mapping pattern=".北京市.crc" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
