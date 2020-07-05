@@ -1,12 +1,12 @@
 <templateSet group="user">
-  <template name="cc" value="/**&#10;  * @author: roger&#10;  * @date: $date$ $time$ &#10;  * @description:&#10;  */" description="添加类注释-class comment" toReformat="false" toShortenFQNames="true">
+  <template name="cc" value="/**&#10; * @author: roger&#10; * @date: $date$ $time$ &#10; * @description:&#10; */" description="添加类注释-class comment" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="mc" value="/**&#10;  * &#10;  */" description="添加方法注释-method comment" toReformat="false" toShortenFQNames="true">
+  <template name="mc" value="/**&#10; * &#10; */" description="添加方法注释-method comment" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
